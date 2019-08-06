@@ -3,3 +3,4 @@ name: pyowa-binder
 dependencies:
   - python=3.7
   - numpy
+  - requests
