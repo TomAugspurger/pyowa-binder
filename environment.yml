@@ -1,0 +1,6 @@
+name: pyowa-binder
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
